@@ -1,0 +1,138 @@
+﻿[
+	{
+		"P1" : "You're on your way to Brazil.",
+		"P2" : "{0} was sent to Brazil."
+	},
+	{
+		"P1" : "You had a lot more to live for.",
+		"P2" : "{0} had a lot more to live for."
+	},
+	{
+		"P1" : "You're a bottom.",
+		"P2" : "{0} Submitted."
+	},
+	{
+		"P1" : "plangue.",
+		"P2" : "{0} plangue."
+	},
+	{
+		"P1" : "Your family will point and laugh.",
+		"P2" : "{0}'s family will point and laugh."
+	},
+	{
+		"P1" : "Hear that?  That's the sound of your bones.",
+		"P2" : "That's the sound of {0}'s bones."
+	},
+	{
+		"P1" : "Women aren't funny!",
+		"P2" : "{0} received a joker joke."
+	},
+	{
+		"P1" : "You does down in a hilarious pose.",
+		"P2" : "{0} downs in a hilarious pose."
+	},
+	{
+		"P1" : "You did it like this.",
+		"P2" : "{0} did it like this."
+	},
+	{
+		"P1" : "You've been blown away.",
+		"P2" : "{0} has died. Ya boi gust'o wind does it again"
+	},
+	{
+		"P1" : "LIBERAL.",
+		"P2" : "{0} was ridin' with Biden."
+	},
+	{
+		"P1" : "*Crash*",
+		"P2" : "HAHAHA, Nothing bad ever happens to {0}!"
+	},
+	{
+		"P1" : "GTFO is a 4 player action/horror cooperative first-person shooter for hardcore gamers looking for a real challenge.",
+		"P2" : "{0} would prefer to play Putt Putt's Big Adventure."
+	},
+	{
+		"P1" : "Reformed by the Chinese government.",
+		"P2" : "{0}'s teammate typed: 1987 Tiananmen Square."
+	},
+	{
+		"P1" : "Try not dying next time lol.",
+		"P2" : "{0} failed to invent a not dying machine."
+	},
+	{
+		"P1" : "Told you not to touch the bees.",
+		"P2" : "{0} touched the bees."
+	},
+	{
+		"P1" : "you can only watch.",
+		"P2" : "{0} can only watch."
+	},
+	{
+		"P1" : "is it?",
+		"P2" : "{0} has learned that it was."
+	},
+	{
+		"P1" : "Banned",
+		"P2" : "{0} was banned for having an opinion."
+	},
+	{
+		"P1" : "Toggled Downfall",
+		"P2" : "{0} covered themself in oil, it stopped raining..."
+	},
+	{
+		"P1" : "Come back soon!",
+		"P2" : "{0} found the word ass in the bible."
+	},
+	{
+		"P1" : "Get hardbassed, beansprout.",
+		"P2" : "{0} was hardbassed."
+	},
+	{
+		"P1" : "DEAD",
+		"P2" : "{0} IS DEAD, NOT BIG SUPRISE"
+	},
+	{
+		"P1" : "you didn't dig your tongue in far enough.",
+		"P2" : "{0} didn't dig their tongue in far enough."
+	},
+	{
+		"P1" : "your heart will stop beating in 3 days, 13 hours, 45 minutes and 32 seconds.",
+		"P2" : "{0} has been told their time of death."
+	},
+	{
+		"P1" : "AHA~",
+		"P2" : "{0} is a discord admin and reddit mod."
+	},
+	{
+		"P1" : "Congrats, you drank the pirate drink!",
+		"P2" : "{0} drank the fun pirate drink!"
+	},
+	{
+		"P1" : "I WARNED YOU ABOUT STAIRS, I TOLD YOU DOG!",
+		"P2" : "{0} fell down the stairs"
+	},
+	{
+		"P1" : "Meet the lag wrench.",
+		"P2" : "{0} met the lag wrench."
+	},
+	{
+		"P1" : "You get pulled into the tentacle pit.",
+		"P2" : "{0} was pulled into the tentacle pit. (god I would HATE that.)"
+	},
+	{
+		"P1" : "gtfo-chat when someone mentions kiting.",
+		"P2" : "{0} mentioned kiting in gtfo-chat"
+	},
+	{
+		"P1" : "skill issue.",
+		"P2" : "{0} encountered a skill issue"
+	},
+	{
+		"P1" : "You tried to carry.",
+		"P2" : "Don't worry, {0} is going to carry."
+	},
+	{
+		"P1" : "You've GOT this.",
+		"P2" : "{0} didn't have this."
+	}
+]
