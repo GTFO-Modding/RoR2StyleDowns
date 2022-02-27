@@ -28,7 +28,7 @@
 		"P2" : "{0} received a joker joke."
 	},
 	{
-		"P1" : "You does down in a hilarious pose.",
+		"P1" : "You down in a hilarious pose.",
 		"P2" : "{0} downs in a hilarious pose."
 	},
 	{
